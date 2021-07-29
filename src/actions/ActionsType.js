@@ -1,0 +1,26 @@
+export const AUTHLOGINSUCCESS = 'authloginsuccess';
+// export const AUTHLOGINFAIIL = 'authloginfail';
+// export const AUTHLOGOUT = 'authlogout';
+export const FETCHBOARDSSUCCESS = 'fetchboardssuccess';
+export const ADDBOARDSUCCESS = 'addboardsuccess';
+// export const ADDBOARDFAILL = 'addboardfaill';
+export const DELBOARDSUCCESS = 'delboardsuccess';
+// export const DELBOARDFAILL = 'delboardfaill';
+export const EDITBOARDSUCCESS = 'editboardsuccess';
+// export const EDITBOARDFAILL = 'editboardfaill';
+export const LISTBOARDSUCCESS = 'listboardsuccess';
+
+export const ADDLISTSUCCESS = 'addlistsuccess';
+export const EDITLISTSUCCESS = 'editlistsuccess';
+export const DELLISTSUCCESS = 'deletelistsuccess';
+export const DELCARDSUCCESS = 'deletecardsuccess';
+// export const LISTBOARDFAILL = 'listboardfaill';
+export const CARDDATASUCCESS = 'carddatasuccess';
+export const ADDCARDSUCCESS = 'addcardsuccess';
+export const EDITCARDSUCCESS = 'editcardsuccess';
+export const CREATELISTBOARDSUCCESS = 'createlistboardsuccess';
+export const CREATELISTBOARDFAILL = 'createlistboardfaill';
+export const DELLISTBOARDSUCCESS = 'dellistboardsuccess';
+export const DELLISTBOARDFAILL = 'dellistboardfaill';
+export const EDITLISTBOARDSUCCESS = 'editlistboardsuccess';
+export const EDITLISTBOARDFAILL = 'editlistboardfaill';
